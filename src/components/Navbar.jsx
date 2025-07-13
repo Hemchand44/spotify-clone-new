@@ -20,7 +20,7 @@ const Navbar = () => {
             alt=""
             onClick={()=>naviagte(+1)}
           />
-          <div className="w-full bg-[#121212] rounded-md px-4 py-2 shadow-md">
+          <div className="w-full sm:w-[95%] md:w-[90%] lg:w-[85%] xl:w-[80%] bg-[#121212] rounded-full px-6 py-3 shadow-md border-2 border-white">
             <input
               type="text"
               placeholder="Search for songs, artists..."
