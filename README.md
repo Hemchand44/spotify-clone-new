@@ -53,11 +53,3 @@ A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and r
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgements
-
-Special thanks to the GreatStack YouTube Channel for their invaluable tutorials and guidance.
-
