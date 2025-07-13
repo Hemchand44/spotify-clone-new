@@ -47,7 +47,7 @@ A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and r
     ```sh
     npm start
     ```
-2. Open your browser and navigate to `http://localhost:3000`.
+
 
 ## Contributing
 
